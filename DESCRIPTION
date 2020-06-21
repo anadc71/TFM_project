@@ -1,0 +1,11 @@
+Package: mymiRNAtools
+Title: Graphic tools for DESeqDataSet class objects
+Version: 0.0.0.9000
+Author: Ana delCerro [aut, cre]
+Maintainer: Ana del Cerro <anadc@serida.org>
+Depends: DESeq2, pheatmap, genefilter, ggplot2
+Description: Creates heatmaps and boxplots of counts using a DESeqDataSet class object. rlog transformation. Clustering, by mean expression or by variance. plotcounts of significative up-regulated or down-regulated features.
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
